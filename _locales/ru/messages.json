@@ -1,0 +1,17 @@
+{
+  "app_name": {
+    "message": "VKCustom"
+  },
+  "app_description": {
+    "message": "Изменение стиля для Вконтакте"
+  },
+  "browser_action": {
+    "message": "VKCustom"
+  },
+  "mode_enable": {
+    "message": "Вкл."
+  },
+  "mode_disable": {
+    "message": "Выкл."
+  }
+}

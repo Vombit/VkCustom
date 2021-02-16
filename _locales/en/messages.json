@@ -1,0 +1,17 @@
+{
+  "app_name": {
+    "message": "VKCustom"
+  },
+  "app_description": {
+    "message": "Change the style for Vkontakte"
+  },
+  "browser_action": {
+    "message": "VKCustom"
+  },
+  "mode_enable": {
+    "message": "On"
+  },
+  "mode_disable": {
+    "message": "Off"
+  }
+}
